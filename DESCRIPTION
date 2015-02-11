@@ -1,0 +1,9 @@
+Package: SolarMaps
+Type: Package
+Title: Analysis of Imagery Data
+Version: 1.0
+Date: 2015-01-09
+Author: Abhishek Kapoor
+Maintainer: Abhishek Kapoor <abhishek.kapoor@smartmandate.com>
+Description: Better Viusalization of Imagery assocation Data
+License: GPL-3
